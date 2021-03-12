@@ -1,0 +1,23 @@
+* {
+  padding-bottom:18px;
+  line-height:1em;
+}
+
+html {
+  border: 1px;
+  font-size:18px;
+  background-color:hsl(0,20%,45%);
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  width:75vw;
+  line-height: 1.5em;
+}
